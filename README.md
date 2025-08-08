@@ -17,4 +17,5 @@ Email Spam Detector is a machine learning-based project designed to automaticall
 rately detect spam messages.
  • To develop a user-friendly web application using Streamlit that allows real-time spam detection
  based on user-input messages.
- 
+ ## Screenshot
+ ![App Screenshot](
