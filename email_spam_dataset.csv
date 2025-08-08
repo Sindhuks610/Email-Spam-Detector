@@ -1,0 +1,12 @@
+message,label
+"Congratulations! You've won a $1000 gift card. Click here to claim now!",spam
+"Your account has been compromised. Reset your password immediately.",spam
+"Meeting scheduled at 3 PM today in conference room A.",ham
+"Cheap loans available now! No credit check needed.",spam
+"Reminder: Project deadline is next Monday.",ham
+"Get free samples of our new product. Limited time offer!",spam
+"Lunch at 1 PM?",ham
+"Exclusive deal just for you! Buy one, get one free.",spam
+"Don't miss this opportunity to make money fast!",spam
+"Team outing scheduled for Friday evening.",ham
+ 
