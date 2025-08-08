@@ -19,3 +19,7 @@ rately detect spam messages.
  based on user-input messages.
  ## Screenshot
  ![App Screenshot](Legitimate%20email%20detected%20with%20confidence%20score%20of%2055.22%25.jpg)
+ ### Showing the Email is not Spam.
+
+ ![App Screenshot](Spam%20detected%20with%20confidence%20score%20of%2065.93%25.jpg)
+ ### Spam Detected with confidence score.
