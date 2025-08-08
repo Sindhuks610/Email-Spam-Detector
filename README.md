@@ -18,4 +18,4 @@ rately detect spam messages.
  • To develop a user-friendly web application using Streamlit that allows real-time spam detection
  based on user-input messages.
  ## Screenshot
- ![App Screenshot](
+ ![App Screenshot](Legitimate%20email%20detected%20with%20confidence%20score%20of%2055.22%25.jpg)
